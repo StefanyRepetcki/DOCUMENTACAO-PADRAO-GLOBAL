@@ -76,8 +76,3 @@ mode: 'production',
 
 - **Monitoramento de Dependências**: Mantenha suas dependências atualizadas para evitar problemas de segurança e incompatibilidade.
 
-## Conclusão
-
-O Webpack é uma ferramenta essencial para otimizar e gerenciar projetos front-end. Ao seguir as melhores práticas e entender suas configurações, você pode construir e manter aplicações web escaláveis, eficientes e de alto desempenho.
-
-Lembre-se de ajustar essa documentação de acordo com as necessidades específicas do seu projeto.
