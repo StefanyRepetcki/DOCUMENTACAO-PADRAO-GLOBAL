@@ -57,7 +57,9 @@ const store = createStore({
 ```
 ##  Nomenclatura de Estados, Ações, Mutations e Getters
 **Recomendação:** Utilize camelCase para nomear estados, ações, mutations e getters.
+
 **Por quê?** Manter a consistência com as convenções de JavaScript resulta em um código mais claro e alinhado.
+
 **Exemplo:**
 ```javascript
 const store = createStore({
