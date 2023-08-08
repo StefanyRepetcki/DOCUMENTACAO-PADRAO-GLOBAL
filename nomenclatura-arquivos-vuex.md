@@ -80,7 +80,9 @@ const store = createStore({
 
 ##  Uso de "SET" e Maiúsculas em Mutations
 **Explicação:** A convenção de começar uma mutation com "SET" e usar letras maiúsculas segue um padrão para denotar que a mutation é responsável por definir o valor de um estado específico.
+
 **Por quê?** Essa prática de nomenclatura ajuda a identificar rapidamente as mutations que alteram estados, tornando o código mais legível e descritivo.
+
 **Exemplo:**
 ```javascript
 // Bom
