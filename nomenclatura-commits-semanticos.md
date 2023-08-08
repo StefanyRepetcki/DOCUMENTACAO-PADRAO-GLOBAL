@@ -16,8 +16,9 @@ Commits semânticos são uma maneira estruturada de nomear e descrever as altera
 
 Uma mensagem de commit semântico geralmente consiste em três partes: o tipo, o escopo e a descrição. O padrão segue o formato:
 
+```
 <tipo>(<escopo>): <descrição>
-
+```
 
 ### Tipos de Commit Mais Comuns
 
