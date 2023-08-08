@@ -27,7 +27,7 @@ module.exports = {
 
 ## Recursos e Carregadores
 
-1. **Carregadores (Loaders)**: Use carregadores para processar diferentes tipos de arquivos, como JavaScript, CSS, imagens e muito mais. Por exemplo:
+1. **Loaders**: Use Loaders para processar diferentes tipos de arquivos, como JavaScript, CSS, imagens e muito mais. Por exemplo:
 
 ```javascript
 module: {
